@@ -5,10 +5,13 @@ This Python project performs an independent two-sample t-test to determine wheth
 
 # Getting Started
 Prerequisites
-To run this project, you'll need Python 3.x installed on your system. Additionally, you need to install the following Python libraries:
+To run this project, you'll need Python 3.7 installed on your system. Additionally, you need to install the following Python libraries:
 
 Pandas
 NumPy
 SciPy
 Matplotlib
 Seaborn
+
+# Contributing
+Please feel free to open an issue or submit a pull request if you'd like to contribute to this project. Your contributions are always appreciated!
